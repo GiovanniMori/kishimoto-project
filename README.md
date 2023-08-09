@@ -145,3 +145,6 @@ Essa função retorna o componente `<Environment>` configurado com o preset, o p
 ```
 
 O componente `<OrbitControls>` fornece controles de órbita para a câmera. Ele recebe propriedades como `autoRotate` (rotação automática da cena), `autoRotateSpeed` (velocidade da rotação automática), `enablePan` (habilitar ou desabilitar o pan), `enableZoom` (habilitar ou desabilitar o zoom), `minPolarAngle` (ângulo mínimo para rotação polar) e `maxPolarAngle` (ângulo máximo para rotação polar).
+
+
+Teste
